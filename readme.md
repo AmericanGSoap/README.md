@@ -1,9 +1,9 @@
 ### Welcome ladies and gentlemen.
 Below you will find my experiences in past and future projects of mine..
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.meme-arsenal.com/memes/661181117ea3772dc3ecf942242d39cf.jpg"/>](https://github.com/AmericanGSoap/)
 
-**Software Engineer** \
+**GamePlugin Enginer** \
 [**RedeHarley**](https://github.com/AmericanGSoap/) • Full-time \
 Languages & Technologies: `Java`, `JavaScript`, `Html`, `PHP`, `Mysql`, `NodeJs`\
 Featured projects: [network server](https://github.com/AmericanGSoap/), [community server](https://github.com/AmericanGSoap/))
