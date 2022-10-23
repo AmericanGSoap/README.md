@@ -1,12 +1,12 @@
-### Experiência de trabalho
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+### Welcome ladies and gentlemen.
+Below you will find my experiences in past and future projects of mine..
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
 
 **Software Engineer** \
-[**SpaceX**](https://www.spacex.com/) • Full-time \
-Linguagens & Tecnologias: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `SaltStack`,\
-Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](https://pt.wikipedia.org/wiki/Marte_(planeta))
+[**RedeHarley**](https://github.com/AmericanGSoap/) • Full-time \
+Languages & Technologies: `Java`, `JavaScript`, `Html`, `PHP`, `Mysql`, `NodeJs`\
+Featured projects: [network server](https://github.com/AmericanGSoap/), [community server](https://github.com/AmericanGSoap/))
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://yt3.ggpht.com/ytc/AKedOLQkXnYChXAHOeBQLzwhk1_BHYgUXs6ITQOakoeNoQ=s900-c-k-c0x00ffffff-no-rj"/>](https://rocketseat.com.br/)
