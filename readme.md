@@ -3,27 +3,25 @@ Below you will find my experiences in past and future projects of mine..
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.meme-arsenal.com/memes/661181117ea3772dc3ecf942242d39cf.jpg"/>](https://github.com/AmericanGSoap/)
 
-**GamePlugin Enginer** \
+**NetWork Minecraft Server** \
 [**RedeHarley**](https://github.com/AmericanGSoap/) • Full-time \
 Languages & Technologies: `Java`, `JavaScript`, `Html`, `PHP`, `Mysql`, `NodeJs`\
-Featured projects: [network server](https://github.com/AmericanGSoap/), [community server](https://github.com/AmericanGSoap/))
+Featured projects: [network server](), [community server]()
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://yt3.ggpht.com/ytc/AKedOLQkXnYChXAHOeBQLzwhk1_BHYgUXs6ITQOakoeNoQ=s900-c-k-c0x00ffffff-no-rj"/>](https://rocketseat.com.br/)
+[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://yt3.ggpht.com/dBwhvX2iF121h0UWumMKi5_4cPclBTKIdIm3KM9KroRUcLWrLkppDf67dIDH-i_YrBAupazR=s900-c-k-c0x00ffffff-no-rj"/>](https://github.com/AmericanGSoap/)
 
-**Frot-end Developer (Jr)** \
-[**Rocketseat**](https://rocketseat.com.br/) • Contract \
-Linguagens & Tecnologias: `JavaScript`, `Node`, `React`\
-Projetos em destaque: [Ignite](), [Bootcamp]()
+**First Person Shooter** \
+[**Game FPS**](https://github.com/AmericanGSoap/) • Contract \
+Languages & Technologies: `C++`, `Node`, `Python`, `BluePrint`\
+Featured projects: [Trest Thicker](), [AOSP Company]()
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Nubank" src="https://nubank.com.br/images/nu-icon.png?v=2"/>](https://nubank.com.br/)
+[<img align="left" height="94px" width="94px" alt="Nubank" src="https://cdn-icons-png.flaticon.com/512/320/320368.png"/>]()
 
-**Software Engineer** \
-[**Nubank**](https://nubank.com.br/) • Contract \
-Linguagens & Tecnologias: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
-Projetos em destaque: [App](https://nubank.com.br/)
+**Front-end Developer** \
+[**Websites & Apps**](https://github.com/AmericanGSoap/) • Contract \
+Languages & Technologies: `React Native`, `Node`, `Swift`, `Angular`, `jQuery`, `Php`, `Mysql`, `JavaScript`, `Css`, `Vue`, `Hmtl` \
+Featured projects: [App](https://github.com/AmericanGSoap/)
 <br/>
 <br/>
-
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/put-here-your-username/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
