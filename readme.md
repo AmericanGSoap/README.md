@@ -22,6 +22,6 @@ Featured projects: [Trest Thicker](), [AOSP Company]()
 **Front-end Developer** \
 [**Websites & Apps**](https://github.com/AmericanGSoap/) • Contract \
 Languages & Technologies: `React Native`, `Node`, `Swift`, `Angular`, `jQuery`, `Php`, `Mysql`, `JavaScript`, `Css`, `Vue`, `Hmtl` \
-Featured projects: [App](https://github.com/AmericanGSoap/)
+Featured projects: [App](https://github.com/AmericanGSoap/), [Sites]()
 <br/>
 <br/>
